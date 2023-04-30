@@ -42,16 +42,17 @@ include_once('include/header.php');
                                             required="">
                                         <input name="number" value="" type="password" placeholder="Password"
                                             required="">
-                                        <div class="input-group style-2 ">
+                                        <div class="input-group style-2 " style="justify-content: space-between;">
                                             <div class="btn-check">
                                                 <input type="radio" id="html" name="fav_language" value="HTML">
                                                 <label for="html">Remember Me</label>
                                             </div>
+                                            <a href="" style="text-align: right;">Forgot Password</a>
                                         </div>
                                         <button name="submit" type="submit"
-                                            class="sc-button style letter style-2"><span>Sing In</span> </button>
+                                            class="sc-button style letter style-2"><span>sign in</span> </button>
                                     </form>
-                                    <div class="other-login">
+                                    <!-- <div class="other-login">
                                         <div class="text">Or</div>
                                         <div class="widget-social">
                                             <ul>
@@ -61,7 +62,7 @@ include_once('include/header.php');
                                                 <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                             </ul>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="form-background">
                                     <img src="assets/images/background/img-login.jpg" alt="">
