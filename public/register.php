@@ -65,7 +65,7 @@ include_once('include/header.php');
                                         <button name="submit" type="submit"
                                             class="sc-button style letter style-2"><span>Register Now</span> </button>
                                     </form>
-                                    <div class="other-login">
+                                    <!-- <div class="other-login">
                                         <div class="text">Or</div>
                                         <div class="widget-social">
                                             <ul>
@@ -75,7 +75,7 @@ include_once('include/header.php');
                                                 <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                             </ul>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="form-background">
                                     <img src="assets/images/background/img-register.jpg" alt="">
