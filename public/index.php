@@ -111,25 +111,15 @@ include_once('include/header.php');
                                                 <div class="product-img">
                                                     <img src="assets/images/product-item/item-1.webp" alt="Image" height="10px">
                                                     <div class="countdown">
-                                                        <span class="js-countdown" data-timer="516400"
-                                                            data-labels=" :  ,  : , : , "></span>
+                                                        Package 1
                                                     </div>
                                                     <a href="#" data-toggle="modal" data-target="#popup_bid"
-                                                        class="sc-button style letter"><span>Place Bid</span></a>
-                                                    <label>Package 1</label>
+                                                        class="sc-button style letter"><span>Buy Now</span></a>
+                                                    <label>NFT LIMIT: 10</label>
                                                 </div>
-                                                <div class="product-content">
-                                                    <h5 class="title"><a href="item-details.html">‘’Cool Panda Nft’’</a> </h5>
-                                                    <div class="product-author flex">
-                                                        <div class="avatar">
-                                                            <img src="assets/images/avatar/avt-7.jpg" alt="Image">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="author-name"><a href="author.html">Daniel M.
-                                                                    Bivens</a></div>
-                                                            <span>Creator</span>
-                                                        </div>
-                                                    </div>
+                                                <div class="product-content text-center">
+                                                    <h5 class="title"><a href="item-details.html">Cool Panda Nft</a> </h5>
+                                                    
                                                     <div class="product-price">
                                                         <div class="title">Current Bid</div>
                                                         <div class="price">
@@ -148,25 +138,15 @@ include_once('include/header.php');
                                                 <div class="product-img ">
                                                     <img src="assets/images/product-item/item-3.webp" alt="Image">
                                                     <div class="countdown">
-                                                        <span class="js-countdown" data-timer="516400"
-                                                            data-labels=" :  ,  : , : , "></span>
+                                                        Package 2
                                                     </div>
                                                     <a href="#" data-toggle="modal" data-target="#popup_bid"
-                                                        class="sc-button style letter"><span>Place Bid</span></a>
-                                                    <label>Package 2</label>
+                                                        class="sc-button style letter"><span>Buy Now</span></a>
+                                                    <label>NFT LIMIT: 25</label>
                                                 </div>
-                                                <div class="product-content">
-                                                    <h5 class="title"><a href="item-details.html">‘’Little Girl Nft’’</a> </h5>
-                                                    <div class="product-author flex">
-                                                        <div class="avatar">
-                                                            <img src="assets/images/avatar/avt-7.jpg" alt="Image">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="author-name"><a href="author.html">Daniel M.
-                                                                    Bivens</a></div>
-                                                            <span>Creator</span>
-                                                        </div>
-                                                    </div>
+                                                <div class="product-content text-center">
+                                                    <h5 class="title"><a href="item-details.html">Little Girl Nft</a> </h5>
+                                                    
                                                     <div class="product-price">
                                                         <div class="title">Current Bid</div>
                                                         <div class="price">
@@ -186,25 +166,15 @@ include_once('include/header.php');
                                                 <div class="product-img ">
                                                     <img src="assets/images/product-item/item-4.webp" alt="Image">
                                                     <div class="countdown">
-                                                        <span class="js-countdown" data-timer="516400"
-                                                            data-labels=" :  ,  : , : , "></span>
+                                                        Package 3
                                                     </div>
                                                     <a href="#" data-toggle="modal" data-target="#popup_bid"
-                                                        class="sc-button style letter"><span>Place Bid</span></a>
-                                                    <label>Package 3</label>
+                                                        class="sc-button style letter"><span>Buy Now</span></a>
+                                                    <label>NFT LIMIT: 70</label>
                                                 </div>
-                                                <div class="product-content">
-                                                    <h5 class="title"><a href="item-details.html">‘’Coder Nft’’</a> </h5>
-                                                    <div class="product-author flex">
-                                                        <div class="avatar">
-                                                            <img src="assets/images/avatar/avt-7.jpg" alt="Image">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="author-name"><a href="author.html">Daniel M.
-                                                                    Bivens</a></div>
-                                                            <span>Creator</span>
-                                                        </div>
-                                                    </div>
+                                                <div class="product-content text-center">
+                                                    <h5 class="title"><a href="item-details.html">Designer Nft</a> </h5>
+                                                    
                                                     <div class="product-price">
                                                         <div class="title">Current Bid</div>
                                                         <div class="price">
@@ -224,25 +194,15 @@ include_once('include/header.php');
                                                 <div class="product-img ">
                                                     <img src="assets/images/product-item/item-2.webp" alt="Image">
                                                     <div class="countdown">
-                                                        <span class="js-countdown" data-timer="516400"
-                                                            data-labels=" :  ,  : , : , "></span>
+                                                        Package 4
                                                     </div>
                                                     <a href="#" data-toggle="modal" data-target="#popup_bid"
-                                                        class="sc-button style letter"><span>Place Bid</span></a>
-                                                    <label>Package 4</label>
+                                                        class="sc-button style letter"><span>Buy Now</span></a>
+                                                    <label>NFT LIMIT: 165</label>
                                                 </div>
-                                                <div class="product-content">
-                                                    <h5 class="title"><a href="item-details.html">‘’Stylish Rabbit Nft’’</a> </h5>
-                                                    <div class="product-author flex">
-                                                        <div class="avatar">
-                                                            <img src="assets/images/avatar/avt-7.jpg" alt="Image">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="author-name"><a href="author.html">Daniel M.
-                                                                    Bivens</a></div>
-                                                            <span>Creator</span>
-                                                        </div>
-                                                    </div>
+                                                <div class="product-content text-center">
+                                                    <h5 class="title"><a href="item-details.html">Stylish Rabbit Nft</a> </h5>
+                                                    
                                                     <div class="product-price">
                                                         <div class="title">Current Bid</div>
                                                         <div class="price">
@@ -280,9 +240,19 @@ include_once('include/header.php');
                                         <p class="desc">Most popular nft digital market place </p>
                                     </div>
                                 </div>
-                                <div class="content-right">
-                                    <button class="sc-button style letter style-2"><span>Explore More</span> </button>
-                                </div>
+                                <!-- <div class="content-right">
+                                    <div class="flex">
+                                    <form>
+                                        <div class="div-block">
+                                            <input type="text" placeholder="Search here">
+                                        </div>
+                                        <div class="div-block">
+                                            <button><i class="far fa-search"></i></button>
+                                        </div>
+                                    </form>
+
+                                    </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -292,9 +262,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Jason M. Stalls</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -304,9 +274,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Frank F. Chan</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -316,9 +286,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Robert George</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -328,9 +298,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Frank N. Glisson</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -340,9 +310,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Michel ZonaS</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
 
@@ -353,9 +323,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Jason M. Stalls</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         
@@ -384,9 +354,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Frank F. Chan</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -396,9 +366,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Robert George</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -408,9 +378,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Frank N. Glisson</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -420,9 +390,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Michel ZonaS</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">$ 523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div>
                         <!-- <div class="col-lg-2 col-md-4 col-6">
@@ -432,9 +402,9 @@ include_once('include/header.php');
                                 </div>
                                 <div class="infor">
                                     <h6> <a href="author.html">Mizanur Mango</a> </h6>
-                                    <div class="details">523.7 ETH</div>
+                                    <div class="details">523.7 </div>
                                 </div>
-                                <a href="#" class="sc-button btn-bordered-white"><span>Follow</span></a>
+                                <a href="#" class="sc-button btn-bordered-white"><span>Visit Profile</span></a>
                             </div>
                         </div> -->
                     </div>  
@@ -466,7 +436,7 @@ include_once('include/header.php');
                                 </div>
                                 <div class="card-content">
                                     <h5><a href="#">Easily Payment</a></h5>
-                                    <p>Purchase NFTs with variety of payments including UPI,credit card, cryptocurrency, and other online payment methods</p>
+                                    <p>Purchase NFTs with variety of payments including UPI,credit card, cryptocurrency, and other online payment mods</p>
                                 </div>
                             </div>
                         </div>

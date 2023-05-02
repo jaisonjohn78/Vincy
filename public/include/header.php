@@ -56,10 +56,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <!-- <form class="form-search">
-                                    <input type="text" placeholder="Search here">
-                                    <button><i class="far fa-search"></i></button>
-                                </form> -->
+                               
 
                                 <div id="site-menu">
                                     <nav id="main-nav" class="main-nav">
@@ -70,36 +67,17 @@
                                             </li>
                                             <li class="menu-item ">
                                                 <a href="login.php">Login</a>
-                                                <ul class="sub-menu">
-                                                    <!-- <li class="menu-item"><a href="explore-1.php">Explore 1</a></li> -->
-                                                    <!-- <li class="menu-item"><a href="explore-2.php">Explore 2</a></li> -->
-                                                    <!-- <li class="menu-item"><a href="creator.php">Creator</a></li> -->
-                                                    <!-- <li class="menu-item"><a href="item.php">Item </a></li> -->
-                                                    <!-- <li class="menu-item"><a href="item-details.php">Item Details</a>
-                                                    </li> -->
-                                                </ul>
+                                                
                                             </li>
 
                                             <li class="menu-item">
                                                 <a href="register.php">Register</a>
-                                                <ul class="sub-menu">
-                                                    <!-- <li class="menu-item "><a href="blog.php">Blog</a></li> -->
-                                                    <!-- <li class="menu-item"><a href="blog-details.php">Blog Details</a> -->
-                                                    </li>
-                                                </ul>
+                                                
                                             </li>
-                                            <!-- <li class="menu-item menu-item-has-children">
-                                                <a href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item"><a href="author.php">Authors</a></li>
-                                                    <li class="menu-item"><a href="connect-wallet.php">Wallet
-                                                            Connect</a></li>
-                                                    <li class="menu-item"><a href="create-item.php">Create Item</a>
-                                                    </li>
-                                                    <li class="menu-item"><a href="login.php">Login</a></li>
-                                                    <li class="menu-item"><a href="register.php">Register</a></li>
-                                                </ul>
-                                            </li> -->
+
+                                            <li class="menu-item ">
+                                                <a href="explore-1.php">NFT</a>
+                                            </li>
                                             <li class="menu-item ">
                                                 <a href="contact.php">Contact</a>
                                             </li>
